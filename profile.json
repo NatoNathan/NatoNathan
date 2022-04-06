@@ -1,0 +1,30 @@
+{
+  "name": "N Tamez",
+  "avatar": "https://twitter.com/itsNatoNathan/photo",
+  "header": "https://source.unsplash.com/random/1400x400",
+  "pronouns": "they/them",
+  "bio": "I am a software engineer",
+  "location": "Earth, Sol, Milky Way",
+  "employment": {
+    "company": "Tamez Inc",
+    "company_url": "http://tamez.dev",
+    "title": "Software Engineer"
+  },
+  "contact": {
+    "email": "nathan@tamez.email",
+    "website": "https://nathantamez.dev",
+    "blog": "https://blog.nathantamez.dev",
+    "phone": "1-800-555-1234",
+    "social": {
+      "twitter": "@itsNatoNathan",
+      "github": "NatoNathan",
+      "linkedin": "nathantamez"
+    }
+  },
+  "links": [
+    {
+      "name": "My Upwork Profile",
+      "url": "https://www.upwork.com/"
+    }
+  ]
+}
