@@ -7,8 +7,8 @@
   "location": "Earth, Sol, Milky Way",
   "employment": {
     "company": "Tamez Inc",
-    "company_url": "http://tamez.dev",
-    "title": "Software Engineer"
+    "companyUrl": "http://tamez.dev",
+    "jobTitle": "Software Engineer"
   },
   "contact": {
     "email": "nathan@tamez.email",
