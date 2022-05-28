@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Nathan Tamez, CS student and Software Engineer. I like to build anything from Dynamic web applications to CLI tools and even play around with embedded programming (Adreno and Raspberry Pi pico manly).
+
+My interests include Space (the tech and rocket side of things particular), Science fiction and A bit of Formula One.
 
 <!--
 **NatoNathan/NatoNathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
