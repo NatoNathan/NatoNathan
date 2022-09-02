@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://github.dev/NatoNathan/NatoNathan/blob/d221613c96e107c9cdf5ba2f43e06af955d808fc/assets/GithubHeader.gif" width="100"/>
+    <img src="https://raw.githubusercontent.com/NatoNathan/NatoNathan/main/assets/GithubHeader.gif" width="100"/>
 </div>
 
 # Hey, My name is Nathan Tamez
